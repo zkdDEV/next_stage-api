@@ -6,8 +6,8 @@
             "price": 34.990,
             "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-al-comp",
             "color": "Preto / Musgo",
-            "image1": "./img/bike1_1.jpg",
-            "image2": "./img/bike1_2.jpg"
+            "image1": "https://next-stage-api.vercel.app/img/bike1_1.jpg",
+            "image2": "https://next-stage-api.vercel.app/img/bike1_2.jpg"
         },
         {
             "id": 2,
@@ -15,8 +15,8 @@
             "price": 34.990,
             "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-al-comp",
             "color": "Preto / Azul Cinzento",
-            "image1": "./img/bike2_1.jpg",
-            "image2": "./img/bike2_2.jpg"
+            "image1": "https://next-stage-api.vercel.app/img/bike2_1.jpg",
+            "image2": "https://next-stage-api.vercel.app/img/bike2_2.jpg"
             
         },
         {
@@ -25,8 +25,8 @@
             "price": 42.990,
             "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-al-evo",
             "color": "Camaleão / Preto",
-            "image1": "./img/bike3_1.jpg",
-            "image2": "./img/bike3_2.jpg"
+            "image1": "https://next-stage-api.vercel.app/img/bike3_1.jpg",
+            "image2": "https://next-stage-api.vercel.app/img/bike3_2.jpg"
         },
         {
             "id": 4,
@@ -34,8 +34,8 @@
             "price": 42.990,
             "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-al-evo",
             "color": "Aluminio Escovado / Preto",
-            "image1": "./img/bike4_1.jpg",
-            "image2": "./img/bike4_2.jpg"
+            "image1": "https://next-stage-api.vercel.app/img/bike4_1.jpg",
+            "image2": "https://next-stage-api.vercel.app/img/bike4_2.jpg"
         },
         {
             "id": 5,
@@ -43,8 +43,8 @@
             "price": 44.990,
             "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-comp-2024",
             "color": "Marrom",
-            "image1": "./img/bike5_1.jpg",
-            "image2": "./img/bike5_2.jpg"
+            "image1": "https://next-stage-api.vercel.app/img/bike5_1.jpg",
+            "image2": "https://next-stage-api.vercel.app/img/bike5_2.jpg"
         },
         {
             "id": 6,
@@ -52,8 +52,8 @@
             "price": 44.990,
             "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-comp-2024",
             "color": "Vermelho",
-            "image1": "./img/bike6_1.jpg",
-            "image2": "./img/bike6_2.jpg"
+            "image1": "https://next-stage-api.vercel.app/img/bike6_1.jpg",
+            "image2": "https://next-stage-api.vercel.app/img/bike6_2.jpg"
 
         },
         {
@@ -62,8 +62,8 @@
             "price": 54.990,
             "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-evo-2023",
             "color": "Azul Brilhante",
-            "image1": "./img/bike7_1.jpg",
-            "image2": "./img/bike7_2.jpg"
+            "image1": "https://next-stage-api.vercel.app/img/bike7_1.jpg",
+            "image2": "https://next-stage-api.vercel.app/img/bike7_2.jpg"
         },
         {
             "id": 8,
@@ -71,8 +71,8 @@
             "price": 54.990,
             "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-evo-2023",
             "color": "Verde",
-            "image1": "./img/bike8_1.jpg",
-            "image2": "./img/bike8_2.jpg"
+            "image1": "https://next-stage-api.vercel.app/img/bike8_1.jpg",
+            "image2": "https://next-stage-api.vercel.app/img/bike8_2.jpg"
         },
         {
             "id": 9,
@@ -80,8 +80,8 @@
             "price": 99.990,
             "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-black-edition",
             "color": "Preto",
-            "image1": "./img/bike9_1.jpg",
-            "image2": "./img/bike9_2.jpg"
+            "image1": "https://next-stage-api.vercel.app/img/bike9_1.jpg",
+            "image2": "https://next-stage-api.vercel.app/img/bike9_2.jpg"
         },
         {
             "id": 10,
@@ -89,8 +89,8 @@
             "price": 6.490,
             "link": "https://www.sensebike.com.br/collections/mtb-all-mountain/products/hard-play",
             "color": "Branco",
-            "image1": "./img/bike10_.jpg1",
-            "image2": "./img/bike10_.jpg2"
+            "image1": "https://next-stage-api.vercel.app/img/bike10_.jpg1",
+            "image2": "https://next-stage-api.vercel.app/img/bike10_.jpg2"
         },
         {
             "id": 11,
@@ -98,8 +98,8 @@
             "price": 6.490,
             "link": "https://www.sensebike.com.br/collections/mtb-all-mountain/products/hard-play",
             "color": "Azul",
-            "image1": "./img/bike11_.jpg1",
-            "image2": "./img/bike11_.jpg2"
+            "image1": "https://next-stage-api.vercel.app/img/bike11_.jpg1",
+            "image2": "https://next-stage-api.vercel.app/img/bike11_.jpg2"
         },
         {
             "id": 12,
@@ -107,8 +107,8 @@
             "price": 6.490,
             "link": "https://www.sensebike.com.br/collections/mtb-all-mountain/products/exalt-lt-comp-2023",
             "color": "Cinza",
-            "image1": "./img/bike12_.jpg1",
-            "image2": "./img/bike12_.jpg2"
+            "image1": "https://next-stage-api.vercel.app/img/bike12_.jpg1",
+            "image2": "https://next-stage-api.vercel.app/img/bike12_.jpg2"
         }
     ]
 }
