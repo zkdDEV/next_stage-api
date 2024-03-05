@@ -1,0 +1,114 @@
+{
+    "bikes": [
+        {
+            "id": 1,
+            "name": "Bicicleta Exalt E-Trail AL Comp",
+            "price": 34.990,
+            "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-al-comp",
+            "color": "Preto / Musgo",
+            "image1": "./img/bike1_1.jpg",
+            "image2": "./img/bike1_2.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Bicicleta Exalt E-Trail AL Comp",
+            "price": 34.990,
+            "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-al-comp",
+            "color": "Preto / Azul Cinzento",
+            "image1": "./img/bike2_1.jpg",
+            "image2": "./img/bike2_2.jpg"
+            
+        },
+        {
+            "id": 3,
+            "name": "Bicicleta Exalt E-Trail AL Evo",
+            "price": 42.990,
+            "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-al-evo",
+            "color": "Camaleão / Preto",
+            "image1": "./img/bike3_1.jpg",
+            "image2": "./img/bike3_2.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Bicicleta Exalt E-Trail AL Evo",
+            "price": 42.990,
+            "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-al-evo",
+            "color": "Aluminio Escovado / Preto",
+            "image1": "./img/bike4_1.jpg",
+            "image2": "./img/bike4_2.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Bicicleta Exalt E-Trail Comp",
+            "price": 44.990,
+            "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-comp-2024",
+            "color": "Marrom",
+            "image1": "./img/bike5_1.jpg",
+            "image2": "./img/bike5_2.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Bicicleta Exalt E-Trail Comp",
+            "price": 44.990,
+            "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-comp-2024",
+            "color": "Vermelho",
+            "image1": "./img/bike6_1.jpg",
+            "image2": "./img/bike6_2.jpg"
+
+        },
+        {
+            "id": 7,
+            "name": "Bicicleta Exalt E-Trail Evo",
+            "price": 54.990,
+            "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-evo-2023",
+            "color": "Azul Brilhante",
+            "image1": "./img/bike7_1.jpg",
+            "image2": "./img/bike7_2.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Bicicleta Exalt E-Trail Evo",
+            "price": 54.990,
+            "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-evo-2023",
+            "color": "Verde",
+            "image1": "./img/bike8_1.jpg",
+            "image2": "./img/bike8_2.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Bicicleta Exalt E-Trail Black Edition",
+            "price": 99.990,
+            "link": "https://www.sensebike.com.br/collections/e-exalt/products/exalt-e-trail-black-edition",
+            "color": "Preto",
+            "image1": "./img/bike9_1.jpg",
+            "image2": "./img/bike9_2.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Bicicleta HardPlay 27.5",
+            "price": 6.490,
+            "link": "https://www.sensebike.com.br/collections/mtb-all-mountain/products/hard-play",
+            "color": "Branco",
+            "image1": "./img/bike10_.jpg1",
+            "image2": "./img/bike10_.jpg2"
+        },
+        {
+            "id": 11,
+            "name": "Bicicleta HardPlay 27.5",
+            "price": 6.490,
+            "link": "https://www.sensebike.com.br/collections/mtb-all-mountain/products/hard-play",
+            "color": "Azul",
+            "image1": "./img/bike11_.jpg1",
+            "image2": "./img/bike11_.jpg2"
+        },
+        {
+            "id": 12,
+            "name": "Bicicleta Exalt LT Comp",
+            "price": 6.490,
+            "link": "https://www.sensebike.com.br/collections/mtb-all-mountain/products/exalt-lt-comp-2023",
+            "color": "Cinza",
+            "image1": "./img/bike12_.jpg1",
+            "image2": "./img/bike12_.jpg2"
+        }
+    ]
+}
